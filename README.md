@@ -2,63 +2,69 @@
 Use this template for project's repository.
 
 <p align="center">
-  <img src="./logo.svg" width="120"/>
+  <img src="./logo.svg" width="400"/>
 </p>
 
-<h1 align="center">Project Title</h1>
+<h1 align="center">Redbio</h1>
 
 <p align="center">
   One-line description of the project
 </p>
 
 <p align="center">
-  🔗 <a href="https://your-case-study-link.com"><b>View detailed case study</b></a>
+  🔗 <a href="https://www.eunbicho.me/redbio"><b>View detailed case study</b></a>
 </p>
 
 ---
 
 ## 🧩 Overview
-Short introduction of the project.  
-What it is, why it matters.
+RedBio is an interactive learning system that leverages biosignals such as EEG and heart rate to adapt learning experiences in real time.
+
+Rather than treating learning as a static process, the project explores how physiological data can be used to dynamically adjust engagement, stress levels, and focus.
+The system aims to make learning more responsive to the learner’s condition, supporting sustained attention and more effective learning experiences.
 
 ---
 
 ## ❗ Problem
-- What problem did you identify?
-- Why is it important?
-- Who is affected?
+- Learning systems do not account for the learner’s real-time mental or emotional state
+- Learners struggle to maintain focus without understanding when and why their attention drops
+- Stress and cognitive overload often go unnoticed, negatively affecting learning efficiency
+- As a result, learning becomes inconsistent and difficult to sustain over time
 
 ---
 
 ## 💡 Solution
-- What did you design?
-- Core concept
-- Key idea in one sentence
+- Integrate biosignal data (EEG, heart rate) to reflect the learner’s real-time state
+- Provide immediate feedback to make changes in focus and stress visible
+- Adapt learning interactions based on physiological responses to sustain engagement
+- Enable learners to understand and regulate their own learning through a continuous feedback loop
 
 ---
 
 ## ✨ Key Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Real-time biosignal tracking with intuitive visualization of stress and focus
+- Adaptive learning experience that responds to the learner’s physiological state
+- Personalized feedback loop integrated into seamless UX/UI to support engagement
 
 ---
 
 ## 🗺️ Process
 
 ### Research
-- User interviews / insights
-- Key findings
+- Surveys
+- Interviews
+- Competitive Analysis
 
 ### Ideation
-- How you explored ideas
+- Persona
+- Journey map
 
 ### Design
 - Interaction / UI decisions
 
 ---
 
-## 🧠 Information Architecture
+## 🧠 Journey Map
 
 <p align="center">
   <img src="./information-architecture-01.png" width="400"/>
