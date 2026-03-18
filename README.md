@@ -64,42 +64,36 @@ The system aims to make learning more responsive to the learner’s condition, s
 
 ---
 
+## 👤 Persona
+
+<p align="center">
+  <img src="./persona.png" width="fill"/>
+</p>
+
+---
+
 ## 🧠 Journey Map
 
 <p align="center">
-  <img src="./information-architecture-01.png" width="400"/>
+  <img src="./journey-map.png" width="fill"/>
 </p>
 
 ---
 
 ## 🎨 Prototype UI
 
-<p align="center">
-  <img src="./prototype-ui-01.png" width="250"/>
-  <img src="./prototype-ui-02.png" width="250"/>
-</p>
-
-<p align="center">
-  <img src="./prototype-ui-03.png" width="250"/>
-  <img src="./prototype-ui-04.png" width="250"/>
-</p>
-
----
-
-## 📊 Business Model (Optional)
-
-<p align="center">
-  <img src="./business-canvas-map.png" width="500"/>
+<p align="left">
+  ▶️ <a href="https://www.eunbicho.me/redbio#solution"><b>View Prototype UI</b></a>
 </p>
 
 ---
 
 ## 🚀 Outcome
-- What did you achieve?
-- Impact / results / learning
+- Designed a biosignal-driven learning system concept that connects physiological data with adaptive interaction design
+- Demonstrated how real-time feedback can improve learner awareness, engagement, and regulation through prototyping and testing
 
 ---
 
 ## 🔍 Reflection
-- What did you learn?
-- What would you improve?
+- Learned how to translate complex biometric data into intuitive and meaningful user experiences
+- Would further improve by validating the system with more users and refining the accuracy and responsiveness of feedback
