@@ -1,14 +1,9 @@
-# project-template
-Use this template for project's repository.
-
 <p align="center">
   <img src="./logo.svg" width="400"/>
 </p>
 
-<h1 align="center">Redbio</h1>
-
 <p align="center">
-  One-line description of the project
+  Cognitive State-Aware Adaptive Learning Interface
 </p>
 
 <p align="center">
